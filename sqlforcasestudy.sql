@@ -1,5 +1,5 @@
-CREATE DATABASE chkdb;
-USE chkdb;
+CREATE DATABASE ecommerce;
+USE ecommerce;
 CREATE TABLE IF NOT EXISTS `products` (
   `Code` varchar(20) NOT NULL,
   `Create_Date` datetime NOT NULL,
